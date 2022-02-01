@@ -5,6 +5,8 @@ library(ggplot2)
 display.brewer.all() #display color brewer palettes
 library(RColorBrewer)
 view ('atri1')
+
+# This github stuff is really fun :)
   
 atri1 <- read.delim('ATRi_testing_R.txt')
 #plot gH2AX foci
